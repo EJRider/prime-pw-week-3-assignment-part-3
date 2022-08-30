@@ -1,1 +1,4 @@
 /* give your assignment a fun background color */
+html {
+    background-image: linear-gradient(to right, rgb(249, 156, 156), rgb(81, 26, 35));
+}
